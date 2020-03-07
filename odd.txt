@@ -1,1 +1,39 @@
+%%%% 1. Arrays %%%%
+1. Binary Search -> 704
+2. Find Maximum in Sliding Window -> 239
+3. Search Rotated Array -> 33, 81
+4. Find the Smallest Common Number -> 1198
+5. Rotate Array -> 189
+6. Find Low/High index -> ?
+7. Move Zeros to the Left -> 283
+8. Find Maximum Single Sell Profit -> ?
+9. Implement Quicksort -> ?
+10. Merge Overlapping Intervals -> 56
+11. Sum of Two Values -> 1
 
+%%%% 3. Math & Stats %%%%
+1. Find kth Permutation -> 60
+2. Integer Division -> 29
+3. Pythagorean Triplets -> https://leetcode.com/discuss/interview-question/algorithms/125149/find-pythagorean-triplets-in-an-array-faster-than-on2
+4. All Sum Combinations -> 39, 40, 216, 377
+5. Find Missing Number -> 268
+6. Permute String -> 567
+7. All Subsets -> 78, 90
+8. Is Number Valid? -> 65
+9. Power of a Number -> 50
+10. Calculate Square Root -> 69
+
+%%%% 5. Math & Stats %%%%
+1. Check if Two Binary Trees are Identical -> 100
+2. Write an In-Order Iterator for a Binary Tree -> 173
+3. Iterative Inorder Traversal -> 94
+4. Inorder Successor BST -> 285, 510
+5. Level Order Traversal of Binary Tree -> 102, 107
+6. Is Binary Search Tree? -> 98
+7. Convert Binary Tree to Doubly Linked List -> 426
+8. Print Tree Perimeter -> 545 https://www.cnblogs.com/grandyang/p/6833459.html
+9. Connect Same Level Siblings -> https://www.geeksforgeeks.org/connect-nodes-at-same-level-with-o1-extra-space/
+10. Serialize/Deserialize Binary Tree -> 297
+11. Connect All Siblings -> ?
+12. Inorder Successor BST with Parent Pointers -> 285, 510 https://www.geeksforgeeks.org/inorder-successor-in-binary-search-tree/
+13. 
