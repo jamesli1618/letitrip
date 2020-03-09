@@ -4,10 +4,10 @@
 3. Search Rotated Array -> 33, 81
 4. Find the Smallest Common Number -> 1198
 5. Rotate Array -> 189
-6. Find Low/High index -> ?
+6. Find Low/High index -> 34
 7. Move Zeros to the Left -> 283
-8. Find Maximum Single Sell Profit -> ?
-9. Implement Quicksort -> ?
+8. Find Maximum Single Sell Profit -> 121,122,123
+9. Implement Quicksort -> https://leetcode.com/problems/sort-an-array/discuss/314920/c-quicksort
 10. Merge Overlapping Intervals -> 56
 11. Sum of Two Values -> 1
 
@@ -36,4 +36,20 @@
 10. Serialize/Deserialize Binary Tree -> 297
 11. Connect All Siblings -> ?
 12. Inorder Successor BST with Parent Pointers -> 285, 510 https://www.geeksforgeeks.org/inorder-successor-in-binary-search-tree/
-13. 
+13. Nth Highest in BST -> 230
+14. Mirror Binary Tree Nodes -> 101
+15. Delete Zero Sum Sub-Trees -> https://zxi.mytechroad.com/blog/tree/leetcode-1273-delete-tree-nodes/
+16. N-ary Tree to Binary Tree -> 431
+
+%%%% 7. Graphs %%%%
+1. Clone a Directed Graph -> 133
+2. Minimum Spanning Tree -> 787
+3. Word Chaining -> ?
+
+%%%% Dynamic Programming %%%%
+1 Fibonacci Numbers -> 509
+2 Largest Sum Subarray -> 53
+3 MaxSum Subsequence - Nonadjacent Elements -> 1031? https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/
+4 Combinations for Game Scoring -> 39?
+5 Coin Changing Problem -> 322
+6 Levenshtein Distance -> 72?
