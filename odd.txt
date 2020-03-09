@@ -46,7 +46,7 @@
 2. Minimum Spanning Tree -> 787
 3. Word Chaining -> ?
 
-%%%% Dynamic Programming %%%%
+%%%% 9. Dynamic Programming %%%%
 1 Fibonacci Numbers -> 509
 2 Largest Sum Subarray -> 53
 3 MaxSum Subsequence - Nonadjacent Elements -> 1031? https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/
