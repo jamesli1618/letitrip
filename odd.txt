@@ -1,12 +1,12 @@
 %%%% 1. Arrays %%%%
 1. Binary Search -> 704
-2. Find Maximum in Sliding Window -> 239
+2. Find Maximum in Sliding Window -> 239(DP)
 3. Search Rotated Array -> 33, 81
 4. Find the Smallest Common Number -> 1198
 5. Rotate Array -> 189
 6. Find Low/High index -> 34
 7. Move Zeros to the Left -> 283
-8. Find Maximum Single Sell Profit -> 121,122,123
+8. Find Maximum Single Sell Profit -> 121,122,123(DP)
 9. Implement Quicksort -> https://leetcode.com/problems/sort-an-array/discuss/314920/c-quicksort
 10. Merge Overlapping Intervals -> 56
 11. Sum of Two Values -> 1
@@ -23,7 +23,7 @@
 9. Power of a Number -> 50
 10. Calculate Square Root -> 69
 
-%%%% 5. Math & Stats %%%%
+%%%% 5. Trees %%%%
 1. Check if Two Binary Trees are Identical -> 100
 2. Write an In-Order Iterator for a Binary Tree -> 173
 3. Iterative Inorder Traversal -> 94
