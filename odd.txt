@@ -7,7 +7,7 @@
 6. Find Low/High index -> 34
 7. Move Zeros to the Left -> 283
 8. Find Maximum Single Sell Profit -> 121,122,123(DP)
-9. Implement Quicksort -> 912 https://leetcode.com/problems/sort-an-array/discuss/314920/c-quicksort
+9. Implement Quicksort -> 912 https://leetcode.com/problems/sort-an-array/discuss/314920/c-quicksort, https://appdividend.com/2019/05/02/quick-sort-in-c-tutorial-with-example-c-quick-sort-program/
 10. Merge Overlapping Intervals -> 56
 11. Sum of Two Values -> 1
 
