@@ -1,6 +1,6 @@
 (2) Linked List
 1 Reverse a Singly Linked List. -> 206
-2 Remove Duplicates from a Linked List. -> 83
+2 Remove Duplicates from a Linked List. -> 83,82
 3 Delete Node with a Given Key -> 237
 4 Insertion Sort of a Linked List -> 147
 5 Intersection Point of Two Lists -> 160
