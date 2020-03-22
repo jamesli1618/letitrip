@@ -19,7 +19,7 @@
 2 Remove Duplicates -> 316 
 3 Remove White Spaces -> 434?
 4 String Segmentation -> 139
-5 XML to Tree -> 591
+5 XML to Tree -> 385?,591?
 6 Find all Palindrome Substrings -> 647
 7 Regular Expression -> 10
 
