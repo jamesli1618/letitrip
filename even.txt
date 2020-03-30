@@ -41,6 +41,7 @@
 4 Implement LRU Cache -> 146
 5 Host Endianness -> 190?
 6 Closest Meeting Point -> 296 (locked)
+7 Count Primes -> 204
 
 
   
