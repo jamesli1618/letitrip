@@ -34,7 +34,7 @@
 3 Solve N-Queens Problem -> 51
 4 Find K-Sum Subsets -> 78
 
-(10) Sum of Three Values
+(10) Other popular
 1 Sum of Three Values -> 15
 2 Make Columns and Rows Zeros -> 73
 3 Search in a Matrix -> 74
@@ -42,6 +42,8 @@
 5 Host Endianness -> 190?
 6 Closest Meeting Point -> 296 (locked)
 7 Count Primes -> 204
+8 Super Pow -> 372
+
 
 
   
