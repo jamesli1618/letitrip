@@ -13,6 +13,7 @@
 12 Reverse k Elements -> 25?
 13 Add Two Integers -> 2
 14 Copy Linked List with Arbitrary Pointer -> 138
+15 Palindrome Linked List -> 234
 
 (4) String
 1 Reverse Words in a Sentence -> 151
