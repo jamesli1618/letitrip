@@ -50,6 +50,7 @@
 12 Jump Game -> 55,45
 13 Valid Parentheses -> 20
 14 Set Mismatch -> 645
+15 Exam Room -> 855
 
 
   
