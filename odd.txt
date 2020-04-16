@@ -55,3 +55,7 @@
 4 Combinations for Game Scoring -> 39?
 5 Coin Changing Problem -> 322
 6 Levenshtein Distance -> 72?
+
+%%%% 11. Leetcode Frequent %%%%
+1 Largest Rectangle in Histogram -> 84
+2 Maximal Rectangle -> 85
